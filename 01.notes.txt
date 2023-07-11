@@ -1,0 +1,62 @@
+Nested if-else:-
+
+Need of nested if-else - when a decision is to be given by code or program is based on more than one condition, we use nested if-else
+
+x= 100
+y=20
+z=50
+
+if condition 1:
+	if condition 2:
+		if block
+	else:
+		else block
+else:
+	if condition 3:
+		if block
+	else:
+		else block
+
+
+Why not nested if-else:-
+Care need to be taken to match corresponding pairs of is's and else's
+Care need to be taken for indentation
+
+
+Need of logical operators
+1. If there is a need to check more than one condition in single if-statement, use logical operators.
+2. To overcome disadvantages of nested if-else use logical operators.
+
+1) logical OR = or
+2) logical AND = and
+3) logical NOT = not
+
+logical OR and AND are binary operators (2 conditions)
+logical NOT = Unary operator (1 condition)
+Operators for logical operators are conditions.
+
+Truth Tables
+AND
+cond1		cond2		cond1 and cond2
+T		  T		       T
+T		  F		       F
+F		  T		       F
+F		  F  		       F
+
+OR
+cond1		cond2		cond1 and cond2
+T		  T		       T
+T		  F		       T
+F		  T		       T
+F		  F  		       F
+ 
+
+
+
+
+
+
+
+
+
+
