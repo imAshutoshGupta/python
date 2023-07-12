@@ -1,2 +1,2 @@
-# python
-These are classroom notes
+# Python
+Classroom notes and code files
