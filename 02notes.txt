@@ -1,0 +1,16 @@
+Loop control instruction
+need - resualibility of code
+
+Disadvantage of code repetition
+1) Memory - it increases memory consumption as program is stored in the memory for its conversion to machine code.
+2) Time consuming - intepreter time is consumed for checking repeated code.
+3) Length of program - it increases program length which may cause difficulty to find errors for a developer.
+
+Above disadvantages of code repetition can be removed by using loop control instruction.
+
+What is loop control instruction?
+The instruction or statement that allows you to write code once and repeat finite and infinite number of times is called as loop control instruction.
+
+Types of LCI:
+1) While loop
+2) For loop
