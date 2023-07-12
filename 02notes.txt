@@ -14,3 +14,28 @@ The instruction or statement that allows you to write code once and repeat finit
 Types of LCI:
 1) While loop
 2) For loop
+
+Syntax
+initialization
+while condition:
+	code
+	increment/decrement
+
+initialization -> condition -> body -> increment/decrement
+
+
+Initialization
+In this a variable is initialized to a certain value. That variable is called as counter variable which keeps track of number of times loop is repeated.
+Generally the variable used in initialization, same variable is used in condition and increment/decrement.
+
+Question:
+WAP to print the table of 4
+
+
+
+
+
+
+
+
+ 
