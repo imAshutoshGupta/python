@@ -35,7 +35,7 @@ n = int(input("enter your number: "))
 
 if n>0:
  k=1
-while k<=10:
+ while k<=10:
         s=n*k
         print("your number *",k,"=",s)
         k=k+1
