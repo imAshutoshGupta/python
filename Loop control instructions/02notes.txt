@@ -31,6 +31,9 @@ Generally the variable used in initialization, same variable is used in conditio
 Question:
 WAP to print the table of 4
 
+Find summation from 1 to n.
+
+Factorial of a number entered by user.
 
 
 
