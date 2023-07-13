@@ -35,9 +35,11 @@ Find summation from 1 to n.
 
 Factorial of a number entered by user.
 
+A number and its power is entered by user. WAP to find one number raised to power.
 
+A number is entered by user. WAP to count number of digits in that entered number.
 
-
+Any digit number is entered by user, WAP to check weather number is armstrong number or not.
 
 
 
