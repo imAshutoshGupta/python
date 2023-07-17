@@ -41,6 +41,8 @@ A number is entered by user. WAP to count number of digits in that entered numbe
 
 Any digit number is entered by user, WAP to check weather number is armstrong number or not.
 
+WAP to print fibonacci series.
+
 
 
  
