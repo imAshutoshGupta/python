@@ -58,6 +58,10 @@ while condition:
       break
 increment/decrement
 
+Continue Keyword
+When encountered in a code, it takes the program control back at the begining of the loop.
+It is also associated with IF condition.
+
 
 
  
