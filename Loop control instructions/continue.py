@@ -8,6 +8,7 @@ while i<=10:
     i=i+1
 
 
+# Infinite loop
 i=1
 while i<=10:
     if i==4:
