@@ -44,5 +44,20 @@ Any digit number is entered by user, WAP to check weather number is armstrong nu
 WAP to print fibonacci series.
 
 
+Break Keyword
+Its a keyword which is used to stop execution of your loop even if loop condition is true.
+Break keyword is always associated with if condition.
+
+Syntax
+for i in range(start,stop,step)
+      if condition:
+      break
+initialization
+while condition:
+      if condition:
+      break
+increment/decrement
+
+
 
  
