@@ -62,6 +62,11 @@ Continue Keyword
 When encountered in a code, it takes the program control back at the begining of the loop.
 It is also associated with IF condition.
 
+Prime number 
+Number which is completely divisible by one and itself.
+If entered number by user (n) is completely divisible by any one of the number from 2 to n-1 then that entered number is called as non-prime number.
+Else it is a prime number.
+
 
 
  
