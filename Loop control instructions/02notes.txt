@@ -67,6 +67,9 @@ Number which is completely divisible by one and itself.
 If entered number by user (n) is completely divisible by any one of the number from 2 to n-1 then that entered number is called as non-prime number.
 Else it is a prime number.
 
-
+Nested loop
+Loop inside loop is called a nested loop. You can have n number of loops.
+In nested loop outside loop is called as outer loop and inside loop is called as a inner loop.
+For each iteration or repetition of outer loop inner loop repeats n number of times. Repetition of inner loop depends on its condition or sequence.
 
  
