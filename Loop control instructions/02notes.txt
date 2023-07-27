@@ -1,0 +1,100 @@
+Loop control instruction
+need - resualibility of code
+
+Disadvantage of code repetition
+1) Memory - it increases memory consumption as program is stored in the memory for its conversion to machine code.
+2) Time consuming - intepreter time is consumed for checking repeated code.
+3) Length of program - it increases program length which may cause difficulty to find errors for a developer.
+
+Above disadvantages of code repetition can be removed by using loop control instruction.
+
+What is loop control instruction?
+The instruction or statement that allows you to write code once and repeat finite and infinite number of times is called as loop control instruction.
+
+Types of LCI:
+1) While loop
+2) For loop
+
+Syntax
+initialization
+while condition:
+	code
+	increment/decrement
+
+initialization -> condition -> body -> increment/decrement
+
+
+Initialization
+In this a variable is initialized to a certain value. That variable is called as counter variable which keeps track of number of times loop is repeated.
+Generally the variable used in initialization, same variable is used in condition and increment/decrement.
+
+Question:
+WAP to print the table of 4
+
+Find summation from 1 to n.
+
+Factorial of a number entered by user.
+
+A number and its power is entered by user. WAP to find one number raised to power.
+
+A number is entered by user. WAP to count number of digits in that entered number.
+
+Any digit number is entered by user, WAP to check weather number is armstrong number or not.
+
+WAP to print fibonacci series.
+
+
+Break Keyword
+Its a keyword which is used to stop execution of your loop even if loop condition is true.
+Break keyword is always associated with if condition.
+
+Syntax
+for i in range(start,stop,step)
+      if condition:
+      break
+initialization
+while condition:
+      if condition:
+      break
+increment/decrement
+
+Continue Keyword
+When encountered in a code, it takes the program control back at the begining of the loop.
+It is also associated with IF condition.
+
+Prime number 
+Number which is completely divisible by one and itself.
+If entered number by user (n) is completely divisible by any one of the number from 2 to n-1 then that entered number is called as non-prime number.
+Else it is a prime number.
+
+Nested loop
+Loop inside loop is called a nested loop. You can have n number of loops.
+In nested loop outside loop is called as outer loop and inside loop is called as a inner loop.
+For each iteration or repetition of outer loop inner loop repeats n number of times. Repetition of inner loop depends on its condition or sequence.
+
+
+
+How to find number of spaces?
+_ _ _ _ *
+_ _ * _ *		s=4 n=3
+* _ * _ *
+
+_ _ _ _ _ _ *
+_ _ _ _ * _ *	s=6 n=4
+_ _ * _ * _ *
+* _ * _ * _ *
+ 
+s=8 n=5
+and so on...
+therefore 	  s = 2*(n-1)
+
+
+What is ASCII?
+ASCII, abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication.
+
+
+A		65
+A B		65 66
+A B C		65 66 67
+A B C D		65 66 67 68
+A B C D E		65 66 67 68 69 

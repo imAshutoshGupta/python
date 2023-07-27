@@ -1,0 +1,36 @@
+english language
+alphabets ----> words ----> sentences ----> paragraph
+
+programming language
+alphabets (a-z) 
+digits (0-9) ----> variables, constant, keywords ----> instructions ----> program
+symbols (@,#,%,&)
+
+Variables
+They are containers that are used to store values. Values can be an input given by user or a result of any operation.
+Technically vairables are memory location on RAM. Value in the variable remains till program is running/or in execution phase, as soon as program ends that value is erased(lost).
+
+Constant
+Whose values remain same throughtout program or operation. They are denoted by capital letters.
+For ex- PI=3.14
+
+Keywords
+These are reserved pre-defined words in programming language.
+Ex- if, else, for...
+
+Instruction
+Command given to machine is called as instruction.
+Types - Arithmetic, Decision control, Loops control
+
+Program
+It is a set of instructions executed sequencially.
+
+
+Need of datatype
+Python is a dynamically typed language,i.e python interpreter assigns smartly datatype to a variable as per value assigned to it.
+For ex - x=10, datatype of x is int
+y=10.5, datatype of y is float
+
+With this datatype interpreter allocates memory space for that variable on the RAM.
+.
+.
