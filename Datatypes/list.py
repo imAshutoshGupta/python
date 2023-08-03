@@ -97,7 +97,10 @@ print(w)
 #print(l)
 hello = "hi i am a human"
 p = hello.replace("human","animal")
+
 print(p)
+print(hello)
+
 
 # check palindrome string
 # using slicing to reverse a string
