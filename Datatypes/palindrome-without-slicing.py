@@ -24,7 +24,7 @@ while i<=j:
         flag=1
     else:
         flag=0
-    
+        break
     i=i+1
     j=j-1
 
