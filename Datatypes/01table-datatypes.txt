@@ -1,0 +1,52 @@
+Datatypes		String		     List		      	   Tuple		     	                    Set		     		       Dictionary
+
+
+Definition		"       "		[ ] or list( )		( ) or tuple( )		              { } or set( )	 		                         {'key':'value'}
+										   				                                                   dict( )
+
+
+
+Index			Y		       Y		        	      Y		       	 	  N				  N = key is available
+
+
+
+Slicing			Y		      Y		         	      Y		         		  N					N
+
+
+Duplicate			Y	 	      Y		         	      Y 		          	 	N(unique)				Y
+values										       				                                              (keys are unique)
+
+
+Orderness		Y		      Y 		          	      Y                                         		N(unordered)				Y             
+
+
+
+Mutable			N		       Y		           	     N                                         	 	    Y					Y
+								               			                add -yes
+								               			             delete -yes
+								              		 	            update -no
+								                			               [no index]
+
+
+
+Add			N 		        Y		             	      N			 	        Y		   			Y
+            				           1) append( )			             			              1)add (value)                  		            ['key']=value
+				           2) insert (pos, value)			          		           2) update(collection)	 	                               update( )	
+
+
+
+Remove			N		   Y		            	     N				          Y		     			 Y	
+				             1) pop( )							remove(value)             		            pop(name)
+				          2) pop(index)						                         pop( )		
+				          3)remove(value)	
+
+
+
+Update			N		  Y
+				      listobject[ index]=value		   N				N (no index)			        d['keyname']=value
+
+
+
+
+		
+
