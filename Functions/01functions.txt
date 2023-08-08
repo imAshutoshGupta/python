@@ -1,0 +1,27 @@
+'''
+need of functions - to reuse existing code there is a need of function
+
+What is function?
+A function is a collection of instruction or group of instructions to perform a specific task, which is written once and reused again.
+
+Types of functions
+1) Built-in fucntion
+2) User defined function
+
+Built-in function
+The functions that are already defined in python are called as built-in functions (pre-defined)
+
+Syntax function definition
+
+def functionname(argument list):
+    function body
+    return value
+
+Function call
+To use or to execute funtion defined it must be called
+
+Syntax
+functionname(arguments)
+
+
+'''
