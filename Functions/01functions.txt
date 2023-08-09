@@ -23,5 +23,8 @@ To use or to execute funtion defined it must be called
 Syntax
 functionname(arguments)
 
+Working of a function.
+When a function call is detected control goes to function body, it executes function body and return control at a place of function call thus completing the cycle.
+
 
 '''
