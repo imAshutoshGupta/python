@@ -8,6 +8,7 @@ Types of modules
 1) Built-In modules
 2) User-defined modules
 
-
+Package
+It is a collection of modules
 
 '''
